@@ -53,6 +53,11 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/>
 </p>
 
+<h3 align="left">Operating Systems</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -126,6 +131,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suskale&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
+
+
+
 
 
 
