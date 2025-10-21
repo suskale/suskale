@@ -2,12 +2,18 @@
 <!--        🌟 SUSHANT KALE - PORTFOLIO        -->
 <!-- ======================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Sushant%20Kale%20🚀%20DevOps%20Engineer%20|%20Cloud%20|%20Automation&fontColor=58A6FF&fontSize=24&animation=fadeIn&fontAlignY=40" alt="Sushant Kale Banner"/>
-</p>
+
 
 <h1 align="center">Hey there 👋, I'm Sushant Kale</h1>
 <h3 align="center">💻 DevOps Engineer | Cloud Enthusiast | Automation Lover 🚀</h3>
+
+---
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud;Automation)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -22,7 +28,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## 💻 Tech Stack
 
 <h3 align="left">Languages & Frameworks</h3>
 <p align="left">
@@ -89,7 +95,14 @@
 
 ---
 
-## 🧠 Contribution Graph
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suskale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suskale&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF" width="100%" alt="GitHub Activity Graph"/>
@@ -100,14 +113,17 @@
 ## 🌍 Connect With Me
 
 <p align="left">
+  <a href="mailto:sushantkale302@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
+  </a>
   <a href="https://www.linkedin.com/in/sushant-kale-677441237/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  <a href="https://hub.docker.com/repositories/suskale" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker Hub" width="40" height="40"/>
+  </a>
   <a href="https://github.com/suskale" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="mailto:sushantkale@email.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
