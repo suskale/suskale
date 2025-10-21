@@ -1,9 +1,3 @@
-<!-- ======================================== -->
-<!--        🌟 SUSHANT KALE - PORTFOLIO        -->
-<!-- ======================================== -->
-
-
-
 <h1 align="center">Hey there 👋, I'm Sushant Kale</h1>
 <h3 align="center">💻 DevOps Engineer | Cloud Enthusiast | Automation Lover 🚀</h3>
 
@@ -17,7 +11,7 @@
 
 ---
 
-## 🧍‍♂️ About Me
+## 🚀 About Me
 
 💡 Passionate about **DevOps, Cloud Infrastructure, and Automation**.  
 🧰 I love working with **Docker, Kubernetes, Jenkins, Terraform**, and modern CI/CD tools.  
@@ -110,7 +104,7 @@
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:sushantkale302@gmail.com">
