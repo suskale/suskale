@@ -103,8 +103,6 @@
   <a href="https://www.linkedin.com/in/sushant-kale-677441237/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-</p>
-
   <a href="https://github.com/suskale" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
