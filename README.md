@@ -18,7 +18,6 @@
 ☁️ Currently exploring **AWS, Prometheus, and Ansible** to build scalable systems.  
 💬 Ask me about **DevOps workflows, cloud pipelines, and infrastructure automation.**  
 📫 Reach me at: **sushantkale302@gmail.com**  
-⚡ Fun fact: *“Automation is my coffee — keeps me running!”*
 
 ---
 
@@ -131,9 +130,4 @@
   <img src="https://komarev.com/ghpvc/?username=suskale&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
 
-
-
-
-
-
-
+---
