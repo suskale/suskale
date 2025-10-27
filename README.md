@@ -54,12 +54,6 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/>
 </p>
 
-<h3 align="left">Networking & Security Tools</h3>
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="70" height="40" alt="Cisco Packet Tracer"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" height="50" alt="Kali Linux"/>
-</p>
-
 <h3 align="left">Operating Systems</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
