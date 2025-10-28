@@ -40,11 +40,13 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40" height="40" alt="ArgoCD"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40" alt="Ansible"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
+
 
 <h3 align="left">Databases & Monitoring</h3>
 <p align="left">
@@ -134,5 +136,3 @@
 </p>
 
 ---
-
-
