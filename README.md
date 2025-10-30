@@ -136,3 +136,14 @@
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/suskale">
+    <img
+      src="https://streak-stats.demolab.com?user=suskale&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=30363D"
+      alt="GitHub Streak"
+      height="180"
+      style="border: 2px solid #30363D; border-radius: 10px; padding: 5px;"
+    />
+  </a>
+</p>
