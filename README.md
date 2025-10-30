@@ -136,19 +136,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/suskale">
-    <picture>
-      <!-- Primary working streak stats -->
-      <source srcset="https://streak-stats.demolab.com?user=suskale&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" type="image/png" />
-      <!-- Fallback if the service fails -->
-      <img
-        src="https://github.com/suskale.png"
-        alt="GitHub Streak (unavailable, view profile instead)"
-        height="180"
-        style="border-radius: 10px; border: 2px solid #30363D; padding: 5px;"
-      />
-    </picture>
-  </a>
-</p>
