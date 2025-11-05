@@ -95,7 +95,7 @@
   </a>
 </p>
 
-
+<!--
 
 ---
 ## 🏆 GitHub Trophies
@@ -105,7 +105,7 @@
 
 ---
 
-
+-->
 
 ## 📈 Activity Graph
 
