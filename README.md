@@ -254,7 +254,7 @@ I enjoy working across both sides of modern software delivery — from developin
 ---
 
 <!-- ===================== WORKFLOW ===================== -->
-
+<!--
 ## 🧭 How I Think About Engineering
 
 <table>
@@ -293,7 +293,7 @@ Continuously refine systems for reliability, scalability, automation, and mainta
 </table>
 
 ---
-
+-->
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📊 GitHub Analytics
