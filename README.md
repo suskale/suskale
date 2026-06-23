@@ -367,10 +367,6 @@ Continuously refine systems for reliability, scalability, automation, and mainta
 
 ### ⚡ DevOps mindset. Android skills. Cloud-ready execution.
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:0D1117,100:1F6FEB&section=footer&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=26&animation=fadeIn"
-  width="100%"
-  alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
 
 </div>
